@@ -49,6 +49,6 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
-    "preact": "^10.4.0"
+    "preact": "^10.4.1"
   }
 }
