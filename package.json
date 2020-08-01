@@ -38,7 +38,7 @@
     "testEnvironment": "jest-environment-jsdom-fourteen"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.4",
+    "@babel/core": "^7.11.0",
     "@babel/plugin-transform-react-jsx": "^7.10.4",
     "@emotion/babel-plugin-jsx-pragmatic": "^0.1.5",
     "babel-jest": "^26.1.0",
