@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
-    "@babel/plugin-transform-react-jsx": "^7.12.1",
+    "@babel/plugin-transform-react-jsx": "^7.12.7",
     "@emotion/babel-plugin-jsx-pragmatic": "^0.1.5",
     "babel-jest": "^26.6.1",
     "enzyme": "^3.11.0",
